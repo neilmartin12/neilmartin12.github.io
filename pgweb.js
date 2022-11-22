@@ -3,9 +3,9 @@
 // 
 // JavaScript Password Generator
 // 
-// Git: https://github.com/neilmartin12/pgweb
+// Git: https://github.com/neilmartin12/neilmartin12.github.io
 // 
-// Web: https://pw-generator.herokuapp.com
+// Web: https://neilmartin12.github.io
 // 
 // E-mail: neilmartin12@me.com
 // 
